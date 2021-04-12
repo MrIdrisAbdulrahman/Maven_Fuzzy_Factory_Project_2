@@ -19,5 +19,6 @@ The first part of this project task is extracting and analyzing the data. The se
 8. In addition to telling investors about what we’ve already achieved, let’s show them that we still have plenty of gas in the tank. Based on all the analysis you’ve done, could you share some recommendations and opportunities for us going forward? No right or wrong answer here – I’d just like to hear your perspective!
 
 ### Running the project:
--- MySQL Workbench or similar is need. -- Extract the database from the zip file to read to the project script.
+1 -- MySQL Workbench or similar is need.
+2 -- Extract the database from the zip file to read to the project script.
 
